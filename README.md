@@ -1,6 +1,6 @@
 ## Overview
 
-This project integrates a retrieval-augmented generation (RAG) system using LangChain and a local LLM (Llama) model. The goal is to retrieve relevant documents based on a user's query, generate answers from these documents, and perform various evaluation steps such as checking document relevance, hallucination grading, and more.
+This project integrates a retrieval-augmented generation (RAG) system using LangChain and a local LLM (Llama) model. The goal is to retrieve relevant documents based on a user's query, generate answers from these document, and perform various evaluation steps such as checking document relevance, hallucination grading, and more.
 
 ## Key Features
 
